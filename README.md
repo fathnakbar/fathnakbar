@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://stats.justsong.cn/api/leetcode/?username=fathnakbar&theme=light" alt="Fathan's LeetCode Stats" width="49%" />
 
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=monokai-metallian&hide_border=true" width="49%"/>
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Fathan's streak" src="https://streak-stats.demolab.com/?user=fathnakbar&theme=monokai-metallian&hide_border=true" width="49%"/>
 
 ![skills](https://skillicons.dev/icons?i=c,cpp,go,py,html,css,js,nodejs,java,md,pytorch,tensorflow,flask,fastapi,express,qt,react,cmake,docker,git,linux,nginx,mysql,redis,sqlite,githubactions,heroku,vercel,visualstudio,vscode)
 
