@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-<img src="https://stats.justsong.cn/api/leetcode/?username=fathnakbar&theme=light" alt="Fathan's LeetCode Stats" width="49%" />
+<!-- <img src="https://stats.justsong.cn/api/leetcode/?username=fathnakbar&theme=light" alt="Fathan's LeetCode Stats" width="49%" /> -->
 
 <!-- <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Fathan's streak" src="https://streak-stats.demolab.com/?user=fathnakbar&theme=monokai-metallian&hide_border=true" width="49%"/> -->
 
