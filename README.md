@@ -16,4 +16,16 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.buymeacoffee.com/fathnakbar"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=fathnakbar&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a>
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=fathnakbar&show_icons=true&hide_border=true" alt="Fathan's Github Stats" width="58%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathnakbar&layout=compact&hide_border=true&langs_count=10" alt="Fathan's Top Langs" width="37%" /> 
+</p>
+
+
+<img src="https://stats.justsong.cn/api/leetcode/?username=fathnakbar&theme=light" alt="Fathan's LeetCode Stats" width="49%" />
+
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=monokai-metallian&hide_border=true" width="49%"/>
+
+![skills](https://skillicons.dev/icons?i=c,cpp,go,py,html,css,js,nodejs,java,md,pytorch,tensorflow,flask,fastapi,express,qt,react,cmake,docker,git,linux,nginx,mysql,redis,sqlite,githubactions,heroku,vercel,visualstudio,vscode)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=fathnakbar)](https://github.com/ryo-ma/github-profile-trophy)
